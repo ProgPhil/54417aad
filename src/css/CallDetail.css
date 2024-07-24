@@ -1,0 +1,11 @@
+.call-detail-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .call-detail-container button {
+    margin-top: 20px;
+  }
